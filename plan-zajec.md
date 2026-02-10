@@ -31,6 +31,8 @@
 *   rozwiązywanie konfliktów przy scalaniu
 
 *   praca kilku programistów na jednej gałęzi 
+
+*.  co się stanie gdy utworzymy gałąź ze złej?
     
 
 ## bonus jeśli starczy czasu (do wyboru lub punkt po punkcie póki starczy czasu):
