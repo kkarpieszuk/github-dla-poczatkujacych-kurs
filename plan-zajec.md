@@ -12,37 +12,10 @@
 ## Szybkie wprowadzenie
 
 * jak sklonować repozytorium
-
-```
-git clone [adres repozytorium]
-```
-
 * jak zrobić zmiany w kodzie i wyslac je na zdalne repozytorium
-
-```
-git add -A 
-git commit -m "oto moje wspaniałe zmiany"
-git push
-```
-
 * jak pobrać aktóalną wersję 
-
-```
-git pull
-```
-
 * sprawdzanie historii
-
-```
-git log --one-line
-```
-
 * przełączenie na historyczną wersję
-
-```
-git checkout [hash]
-```
-
 
 ## Co się nauczymy
     
