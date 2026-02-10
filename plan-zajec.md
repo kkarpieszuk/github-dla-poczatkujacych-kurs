@@ -37,6 +37,12 @@ git pull
 git log --one-line
 ```
 
+* przełączenie na historyczną wersję
+
+```
+git checkout [hash]
+```
+
 
 ## Co się nauczymy
     
