@@ -25,7 +25,7 @@ git commit -m "oto moje wspaniałe zmiany"
 git push
 ```
 
-* jak pobrać aktualną wersję 
+* jak pobrać aktóalną wersję 
 
 ```
 git pull
